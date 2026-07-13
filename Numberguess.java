@@ -19,7 +19,7 @@ public class Numberguess
             }
             if(correctnumber==guessnumber)
             {
-                System.out.println("Wow You Enter Correct Number,You win This Game!!");
+                System.out.println("Wow!! ,You Enter Correct Number,You win This Game!!");
                 break;
             }
             else if(correctnumber>guessnumber)
