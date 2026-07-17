@@ -19,16 +19,16 @@ public class calculator
                 break;
                 
             case '-':
-                System.out.print("Sum="+(num1-num2));
+                System.out.print("Difference="+(num1-num2));
                 break;
             case '*':
-                System.out.print("Sum="+(num1*num2));
+                System.out.print("Product="+(num1*num2));
                 break;
             case '/':
-                System.out.println("Sum="+(num1/num2));
+                System.out.println("Quotient="+(num1/num2));
                 break;
             case '%':
-                System.out.println("Sum="+(num1%num2));
+                System.out.println("Remainder="+(num1%num2));
                 break;
             
             default:
