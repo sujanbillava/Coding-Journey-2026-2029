@@ -34,7 +34,7 @@ public class calculator
             default:
                 System.out.println("Code Run Sucessful");
         }
-        
+        sc.close();
 
     }    
 }
