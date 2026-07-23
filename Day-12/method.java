@@ -5,7 +5,7 @@ public class method
 {
     public static void welcome()
     {
-        System.out.println("Welcome to My JAVA Journey");
+        System.out.println("Welcome To My JAVA Journey");
     }
     public static void bye()
     {
