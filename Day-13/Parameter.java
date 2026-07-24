@@ -30,6 +30,8 @@ public class Parameter
                     break;
                 case 3:
                     exit();
+                default:
+                    System.out.println("Invalid Choice");
             }
         }
     }
